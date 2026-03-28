@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xupertv.co.uk/sitemap.xml
